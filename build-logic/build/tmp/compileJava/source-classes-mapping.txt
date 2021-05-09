@@ -1,0 +1,5 @@
+me/i509/test/TestService.java
+ me.i509.test.TestService
+ me.i509.test.TestService$Params
+me/i509/test/TestPlugin.java
+ me.i509.test.TestPlugin
